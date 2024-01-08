@@ -1,0 +1,32 @@
+
+               [{time = LocalDateTime.now(),
+                title = "訂單發貨通知 🚚",
+                content = "你的訂單 ORD8729288 己成功簽收",
+                image = R.drawable.map,
+                logo = R.drawable.baseline_email_24,
+                type = NotificationType.PROMOTION.value},
+      
+
+                {time = LocalDateTime.now(),
+                title = "系統通知",
+                content = "你的訂單 ORD8729288 己成功簽收",
+                image = R.drawable.map,
+                logo = R.drawable.baseline_email_24,
+                type = NotificationType.SYSTEM.value},
+ 
+
+               { time = LocalDateTime.now(),
+                title = "中港集運2大優惠 🎁",
+                content = "你的訂單 ORD8729288 己成功簽收",
+                image = R.drawable.map,
+                logo = R.drawable.baseline_email_24,
+                type = NotificationType.SERVICE.value},
+      
+   
+                {time = LocalDateTime.now(),
+                title = "服務通知",
+                content = "你的訂單 ORD8729288 己成功簽收",
+                image = R.drawable.map,
+                logo = R.drawable.baseline_email_24,
+                type = NotificationType.SERVICE.value}]
+            
