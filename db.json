@@ -1,4 +1,4 @@
-[
+{"data":[
   {
     "time": "2024-01-08T12:34:56.789",
     "title": "訂單發貨通知 🚚",
@@ -31,4 +31,4 @@
     "logo": "R.drawable.baseline_email_24",
     "type": "SERVICE"
   }
-]
+]}
